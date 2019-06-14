@@ -4,7 +4,7 @@
     "contentApiKey": "5d0ba3c4591c264be9490cb33b"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://www.problink.org",
+    "contentApiKey": "5d0ba3c4591c264be9490cb33b"
   }
 }
